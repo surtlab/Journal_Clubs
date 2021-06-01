@@ -35,3 +35,6 @@ The goal for this journal club is to cover some of these early papers and work t
 Discovery of _recA_ [Clark and Margulies 1965](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC219534/) / [Perspective](https://onlinelibrary.wiley.com/doi/abs/10.1002/bies.950180912)
 
 Early work on the stringent response [Stent and Brenner 1961](https://www.pnas.org/content/47/12/2005) / [Cashel and Gallant 1969](https://www.nature.com/articles/221838a0.pdf)
+
+Thymineless death [Cohen and Barner 1954](https://www.pnas.org/content/40/10/885) / [Perspective](https://pubmed.ncbi.nlm.nih.gov/26097468/)
+
