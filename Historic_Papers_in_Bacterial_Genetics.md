@@ -21,13 +21,13 @@ The goal for this journal club is to cover some of these early papers and work t
 
 [Please sign up to choose and present a paper at this link](https://docs.google.com/spreadsheets/d/1v8O0R3zjLTRd-7HiKxIXJlrYBnhSoIknWC9UaG0OjdU/edit?usp=sharing)
 
-| Date          | Presenter   | Paper           |Background   |
-|  :----:         |   :----:   |    :----: |          :----:       |
-| 06/08/21      | Dave        | [Hayes 1953](https://arizona.box.com/s/5n4qqe5p8ck5p4dmv8fylhb1q7gqo9tn) |
-| 06/22/21   | Dave?        | [Chilton et al. 1977](https://arizona.box.com/s/asolnz1h6grzbb7xafvg3tu6b6cbr6tx)        |   |
-| 07/06/21   | TBD           | TBD         | TBD  |
-| 07/20/21   | TBD           | TBD         | TBD |
-| 08/03/21   | TBD           | TBD         | TBD |
+| Date          | Presenter   | Topic| Paper           |Background   |
+|  :----:         |   :----:   |  :----:|   :----: |          :----:       |
+| 06/08/21      | Dave        | Plasmid transfer|[Hayes 1953](https://arizona.box.com/s/5n4qqe5p8ck5p4dmv8fylhb1q7gqo9tn) |
+| 06/22/21   | Dave?        | ti-DNA transfer|[Chilton et al. 1977](https://arizona.box.com/s/asolnz1h6grzbb7xafvg3tu6b6cbr6tx)        | [Somssich 2019](https://peerj.com/preprints/27556v2.pdf)  |
+| 07/06/21   | TBD           | TBD| TBD         | TBD  |
+| 07/20/21   | TBD           | TBD |TBD         | TBD |
+| 08/03/21   | TBD           | TBD |TBD         | TBD |
 
 
 ## ***Possible Future Papers***
