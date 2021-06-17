@@ -24,7 +24,7 @@ The goal for this journal club is to cover some of these early papers and work t
 | Date          | Presenter   | Topic| Paper           |Background   |
 |  :----:         |   :----:   |  :----:|   :----: |          :----:       |
 | 06/08/21      | Dave        | Plasmid transfer|[Hayes 1953](https://arizona.box.com/s/5n4qqe5p8ck5p4dmv8fylhb1q7gqo9tn) |
-| 06/22/21   | Dave?        | ti-DNA transfer|[Chilton et al. 1977](https://arizona.box.com/s/asolnz1h6grzbb7xafvg3tu6b6cbr6tx) / [van Larebeke et al 1975 (Optional)](https://arizona.box.com/s/vz2mqxv442ctflu30d85x043gsjp8zsv)       | [Somssich 2019](https://peerj.com/preprints/27556v2.pdf)  |
+| 06/22/21   | Jovana      | ti-DNA transfer|[Chilton et al. 1977](https://arizona.box.com/s/asolnz1h6grzbb7xafvg3tu6b6cbr6tx) / [van Larebeke et al 1975 (Optional)](https://arizona.box.com/s/vz2mqxv442ctflu30d85x043gsjp8zsv)       | [Somssich 2019](https://peerj.com/preprints/27556v2.pdf)  |
 | 07/06/21   | TBD           | TBD| TBD         | TBD  |
 | 07/20/21   | TBD           | TBD |TBD         | TBD |
 | 08/03/21   | TBD           | TBD |TBD         | TBD |
