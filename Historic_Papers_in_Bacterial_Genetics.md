@@ -27,7 +27,7 @@ The goal for this journal club is to cover some of these early papers and work t
 | 06/22/21   | Jovana      | ti-DNA transfer|[Chilton et al. 1977](https://arizona.box.com/s/asolnz1h6grzbb7xafvg3tu6b6cbr6tx) / [van Larebeke et al 1975 (Optional)](https://arizona.box.com/s/vz2mqxv442ctflu30d85x043gsjp8zsv)       | [Somssich 2019](https://peerj.com/preprints/27556v2.pdf)  |
 | 07/06/21   | Dave           | Discovery of _recA_| [Clark and Margulies 1965](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC219534/)          | [Perspective](https://onlinelibrary.wiley.com/doi/abs/10.1002/bies.950180912)  |
 | 07/20/21   | Dave           | First Bacterial Transposon Mutagenesis? |[Kleckner et al. 1975](https://arizona.box.com/s/dxqyulebovmgfzql0xmgszweotwgbypu)         |  |
-| 08/03/21   |Dave Vacation           |  |         |  |
+| 08/03/21   |Dave Vacation           | No Meeting |         |  |
 | 08/17/21   |Last one Dave?          |  |         |  |
 | 08/31/21   |        TBD    | TBD |TBD         | TBD |
 
